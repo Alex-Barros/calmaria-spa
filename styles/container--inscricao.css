@@ -71,6 +71,12 @@
     cursor: pointer;
 }
 
+.container__incricao--form-input button:focus {
+    background: var(--lilas-escuro);
+    transition: .5s;
+    cursor: pointer;
+}
+
 .container__incricao--form-input-div {
     display: none;
 }

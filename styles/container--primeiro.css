@@ -41,6 +41,12 @@
     cursor: pointer;
 }
 
+.container__primeiro--texto-botao:focus {
+    background: var(--lilas-escuro);
+    transition: .5s;
+    cursor: pointer;
+}
+
 .container__primeiro--imagem {
     width: 297px;
     height: 384px;
