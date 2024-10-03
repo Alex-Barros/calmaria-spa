@@ -34,6 +34,12 @@
     font-family: Montserrat;
 }
 
+.container__contato .container__contato--form button:hover {
+    background: var(--lilas-escuro);
+    transition: .5s;
+    cursor: pointer;
+}
+
 .container__contato--form-conteudo {
     display: grid;
     row-gap: 24px;
